@@ -1,0 +1,7 @@
+Youtube panduan menyelesaikan badge : https://www.youtube.com/watch?v=6L1C-9IMysA&feature=youtu.be
+
+Otomatis build kode dideploy ke server : https://firebase.google.com/docs/app-distribution
+
+Learn it Yourself
+qwiklabs.com
+https://google.qwiklabs.com/quests/153?event=Your&qlcampaign=6p-EDUCR-DSC-FIA-ID-11
